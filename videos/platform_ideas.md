@@ -8,3 +8,4 @@ How can we improve the raywenderlich.com video platform?
 - [x] Remember last watched
 - [ ] Create VR experience
 - [ ] Direct brain download
+- [ ] Watch 3 videos back-to-back and get a free pizza
